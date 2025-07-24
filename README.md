@@ -9,8 +9,8 @@ To restart the animation, simply refresh the page.
 
 ## QCD Outlier
 
-![Anti-$k_T$ merge GIF for QCD outlier](anti-kt1.gif)
+![Anti-kT merge GIF for QCD outlier](anti-kt1.gif)
 
 ## Semi-Visible Outlier
 
-![Anti-$k_T$ merge GIF for semi-visible outlier](anti-kt2.gif)
+![Anti-kT merge GIF for semi-visible outlier](anti-kt2.gif)
