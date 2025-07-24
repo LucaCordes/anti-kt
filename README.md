@@ -1,9 +1,16 @@
-# anti-kt GIFs
+# Anti-kT GIFs
 
-merge GIF for QCD outlier
+## Description
 
-![anti-kt merge GIF for QCD outlier](anti-kt1.gif)
+The following GIFs illustrate the step-by-step jet reconstruction process of the anti-kT algorithm.  
+In each frame, the red and blue particles are merged into a new pseudo-particle, shown as a green star.  
+The area of each particle is proportional to the logarithm of its transverse momentum.
+To restart the animation, simply refresh the page.
 
-merge GIF for semi-visble outlier
+## QCD Outlier
 
-![anti-kt merge GIF for semi-visble outlier](anti-kt2.gif)
+![Anti-$k_T$ merge GIF for QCD outlier](anti-kt1.gif)
+
+## Semi-Visible Outlier
+
+![Anti-$k_T$ merge GIF for semi-visible outlier](anti-kt2.gif)
